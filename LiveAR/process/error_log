@@ -1,0 +1,4 @@
+[26-Oct-2018 13:57:40 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rir/public_html/domains/rgeg.ir/process/functions.php on line 74
+[26-Oct-2018 16:24:52 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rir/public_html/domains/rgeg.ir/process/functions.php on line 74
+[28-Oct-2018 19:08:09 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rir/public_html/domains/rgeg.ir/process/functions.php on line 74
+[29-Oct-2018 22:07:02 Asia/Tehran] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rir/public_html/domains/rgeg.ir/process/functions.php on line 74

@@ -1,0 +1,8 @@
+[13-Sep-2018 20:36:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function channel_info() in /home/rir/public_html/live_stream/Manage/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rir/public_html/live_stream/Manage/index.php on line 6
+[13-Sep-2018 20:36:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function channel_info() in /home/rir/public_html/live_stream/Manage/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rir/public_html/live_stream/Manage/index.php on line 6

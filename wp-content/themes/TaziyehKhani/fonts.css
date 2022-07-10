@@ -1,0 +1,55 @@
+
+@font-face{
+    font-family:'farsi number';
+    src:url("fonts/Farsi Numbers Regular.eot");
+    src:url("fonts/Farsi Numbers Regular.eot?#iefix") format("embedded-opentype"),
+    url("fonts/Farsi Numbers Regular.woff") format("woff"),
+    url("fonts/Farsi Numbers Regular.ttf") format("truetype"),
+    url("fonts/Farsi Numbers Regular.svg#4dcae7c15bc0595f11175086add45986") format("svg");
+    font-style:normal;font-weight:1000
+    }
+    
+@font-face{
+    font-family:"iransans";
+    font-weight:"normal";
+    src:url("fonts/IranSans/IRANSansWeb.eot");
+    src:url("fonts/IranSans/IRANSansWeb.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSans/IRANSansWeb.woff") format("woff"),
+    url("fonts/IranSans/IRANSansWeb.ttf") format("truetype")
+    }
+    
+@font-face{
+    font-family:"iransans-light-more";
+    font-weight:"normal";
+    src:url("fonts/IranSans/IRANSansWeb_UltraLight.eot");
+    src:url("fonts/IranSans/IRANSansWeb_UltraLight.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSans/IRANSansWeb_UltraLight.woff") format("woff"),
+    url("fonts/IranSans/IRANSansWeb_UltraLight.ttf") format("truetype")
+    }
+    
+@font-face{
+    font-family:"iransans-md";
+    font-weight:"normal";
+    src:url("fonts/IranSans/IRANSansWeb_Medium.eot");
+    src:url("fonts/IranSans/IRANSansWeb_Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSans/IRANSansWeb_Medium.woff") format("woff"),
+    url("fonts/IranSans/IRANSansWeb_Medium.ttf") format("truetype")
+    }
+    
+@font-face{
+    font-family:"iransans-light";
+    font-weight:"normal";
+    src:url("fonts/IranSans/IRANSansWeb_Light.eot");
+    src:url("fonts/IranSans/IRANSansWeb_Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSans/IRANSansWeb_Light.woff") format("woff"),
+    url("fonts/IranSans/IRANSansWeb_Light.ttf") format("truetype")
+    }
+    
+@font-face{
+    font-family:"iransans-bold";
+    font-weight:"bold";
+    src:url("fonts/IranSans/IRANSansWeb_Bold.eot");
+    src:url("fonts/IranSans/IRANSansWeb_Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSans/IRANSansWeb_Bold.woff") format("woff"),
+    url("fonts/IranSans/IRANSansWeb_Bold.ttf") format("truetype")
+    }
